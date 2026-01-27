@@ -1,0 +1,2 @@
+Line 1: hello git
+Line 2: initial snapshot
