@@ -1,4 +1,1 @@
-Line 1: hello git
-Line 2: initial snapshot
-Line 3: change on main - CONFLICT
-Line 3: change on feature1
+Hello World
